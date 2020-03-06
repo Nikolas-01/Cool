@@ -1,2 +1,2 @@
-# neu_uni_py_03
+# Задание 3
 Strings, Lists, Dictionaries, Tuples, Sets
